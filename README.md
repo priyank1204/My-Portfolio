@@ -1,10 +1,11 @@
 
-# Priyank Dubey
+# Priyank Dubey  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 * Data Scientist Enthusiast*
 
 # Education
 * Bachelors of Technology (Data Science), *Poornima University, Jaipur, Rajasthan, 303905*, 2018-2022
 * Higher Secondary (12th), *Excellent Public Higher Swecondary School, Itarsi, M.p,461111*, 2018
+
 * High School (10th), *Excellent Public Higher Swecondary School, Itarsi, M.p,461111*, 2016
 
 # [Project 1: Smart Banking Analytics Portal](https://github.com/priyank1204/Smart_Banking_Analytics_Portal)
