@@ -42,7 +42,7 @@ Dataset Link = [Click Here!](https://www.kaggle.com/bravehart101/sample-supermar
 # [Project 4: Festman-Store-PowerBI-Report](https://github.com/priyank1204/Festman-Store-PowerBI-Report)
 
 * **Technologies Used:** PowerBI.
-* **Dataset Used:** Sample Superstore Sales Dataset. 
+* **Dataset Used:** Festman Store Dataset. 
 Dataset Link = [Click Here!](https://drive.google.com/file/d/1mnYRyDvXlE6elkE2GWbVbbTQ_KUuwlNp/view) 
 
 
