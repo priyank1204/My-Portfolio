@@ -1,10 +1,10 @@
-# Priyank Dubey
-* Data Scientist Enthusiast *
+
+# John Doe
+*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
-* Bachelors of Technology (Data Science), *Poornima University, Jaipur, Rajasthan 303905*, 2018-2022
-* Higher secondary (12th), * Excellent Public Higher Secondary School, Itarsi, M.P ,461111*,2018
-* High School (10th), * Excellent Public Higher Secondary School, Itarsi, M.P ,461111* ,2016
+* Masters of Science (Data Science), *YouTube University*, 2016-2018
+* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
