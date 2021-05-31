@@ -1,6 +1,6 @@
 
 # Priyank Dubey  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-* Data Scientist Enthusiast*
+* **Data Scientist Enthusiast**
 
 # Education
 * Bachelors of Technology (Data Science), *Poornima University, Jaipur, Rajasthan, 303905*, 2018-2022
