@@ -27,21 +27,23 @@ This is a python based machine learning project which can predict price of any a
 This Report is prepared using PowerBI and here I have squeezed out most of the insights from the data which can be further used to expand the business. This was a part of Maven Toys challenge conducted on LinkedIn.
 
 * **Technologies Used:** PowerBI.
-* **Dataset Used:** Mexico Sales Dataset.   Dataset Link = https://maven-datasets.s3.amazonaws.com/Maven+Toys/Maven+Toys+Data.zip
-
+* **Dataset Used:** Mexico Sales Dataset.   
+Dataset Link = [Click Here!](https://maven-datasets.s3.amazonaws.com/Maven+Toys/Maven+Toys+Data.zip)  
 
 # [Project 4: Sample-Superstore-powerBI-report](https://github.com/priyank1204/Sample-Superstore-powerBI-report)
 
 This report is being built using PowerBI desktop which is an tool build by microsoft for data analysis and visualization. Power BI is widely used in industries to get insights from the dataset only with single clicks. In powerBI ther are inbuild options avaliable for applying query to the data and also ther are very nice data visualization tools.
 
 * **Technologies Used:** PowerBI.
-* **Dataset Used:** Sample Superstore Sales Dataset.   Dataset Link = https://www.kaggle.com/bravehart101/sample-supermarket-dataset/download
+* **Dataset Used:** Sample Superstore Sales Dataset.   
+Dataset Link = [Click Here!](https://www.kaggle.com/bravehart101/sample-supermarket-dataset/download) 
 
 
 # [Project 4: Festman-Store-PowerBI-Report](https://github.com/priyank1204/Festman-Store-PowerBI-Report)
 
 * **Technologies Used:** PowerBI.
-* **Dataset Used:** Sample Superstore Sales Dataset.   Dataset Link = https://drive.google.com/file/d/1mnYRyDvXlE6elkE2GWbVbbTQ_KUuwlNp/view
+* **Dataset Used:** Sample Superstore Sales Dataset. 
+Dataset Link = [Click Here!](https://drive.google.com/file/d/1mnYRyDvXlE6elkE2GWbVbbTQ_KUuwlNp/view) 
 
 
 
